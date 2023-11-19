@@ -3533,6 +3533,12 @@
         "url": "/product/n1187"
     },
     {
+        "banner": "/media/n1186/list_image/n1186_1280_720/820x462_default.jpg",
+        "code": "n1186",
+        "trailer": "/media/samples/n1186.mp4",
+        "url": "/product/n1186"
+    },
+    {
         "banner": "/media/n1185/list_image/n1185_1280_720/820x462_default.jpg",
         "code": "n1185",
         "trailer": "/media/samples/n1185.mp4",
@@ -3644,6 +3650,12 @@
         "banner": "/media/6337/list_image/n1166_1280_720/820x462_default.jpg",
         "code": "n1166",
         "trailer": "/media/samples/6337.mp4",
+        "url": "/product/6337"
+    },
+    {
+        "banner": "https://image.avfhd.com/images/2020/07/17/n1165.jpg",
+        "code": "n1165",
+        "trailer": "/media/samples/n1165.mp4",
         "url": "/product/6337"
     },
     {
