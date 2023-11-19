@@ -1,0 +1,367 @@
+{
+  "id": 718,
+  "category": "Pics",
+  "publishCategory": "Pd",
+  "layoutMode": "Published",
+  "isCloudProduct": false,
+  "title": "千WEN 的無敵美尻",
+  "description": "首次登上平台的雯雯，帶點生澀感，讓你重回初戀的好時光",
+  "price": 1.99,
+  "discountPrice": null,
+  "hiddenProductId": null,
+  "hiddenPrice": null,
+  "diamondPrice": 1000,
+  "cover": {
+    "thumbnail": "/minify_image/1600/3/1528643262656_1063/2018/06/10/0fca3518daedfb7304bb7407c8e9c49329219539c752d1cfcc39ba32b5979292.jpg",
+    "video": "",
+    "type": "photo",
+    "ogImage": "/minify_image/1600/3/1528643262656_1063/2018/06/10/0fca3518daedfb7304bb7407c8e9c49329219539c752d1cfcc39ba32b5979292.jpg",
+    "isCompleted": true
+  },
+  "photoCount": 6,
+  "videoLength": null,
+  "viewTimes": 6767,
+  "favoriteTimes": 17,
+  "publishStart": 1528560000000,
+  "buyButtonType": "notLogin",
+  "bulkButtonType": "hide",
+  "tag": [
+    {
+      "parentTagId": null,
+      "color": "#badffc",
+      "nameI18nKey": "tag.sexyFashion",
+      "id": 81,
+      "type": "Boundary"
+    },
+    {
+      "parentTagId": "71",
+      "color": "#bebebe",
+      "nameI18nKey": "tag.pantyhose",
+      "id": 72,
+      "type": "Genre"
+    }
+  ],
+  "author": {
+    "avatarUrl": "/rescale_avatar/1586850691811_1063/2020/04/14/20b7d7f55c5988587a855bf6a3f337712f4bda4d286b6ebe6945369292d5ff93_large.jpg",
+    "displayName": "huhu body",
+    "name": "hushin0917",
+    "id": 1063
+  },
+  "presenter": null,
+  "producer": null,
+  "collaborator": null,
+  "crewList": [],
+  "modelList": [
+    {
+      "avatarUrl": "/rescale_avatar/1579805875318_32569/2020/01/24/e2fb6266821fa55dc208c479806aa2fdac10955ee75b06860c41f748ee465572_large.jpg",
+      "displayName": "千雯",
+      "name": "Cara850513",
+      "id": 32569
+    }
+  ],
+  "recommendVideo": [
+    {
+      "id": "W1r5aqXY",
+      "category": "Pics",
+      "title": "【誘惑】高衩清純學生妹-CARA",
+      "coverImage": "/minify_image/300/1576944005974_1063/2019/12/22/1617a16eea429313f632ed2361fd9cc88f52a571cf23b85f9125e33240261af6.jpg",
+      "coverVideo": null,
+      "coverPreviewable": false,
+      "originalPrice": 4.99,
+      "specialPrice": null,
+      "favoriteTimes": 20,
+      "viewTimes": 2991,
+      "publishStart": 1577016005000,
+      "photoCount": 95,
+      "videoLength": null,
+      "hiddenVersionPhotoCount": 0,
+      "hiddenVersionVideoLength": null,
+      "model": [
+        {
+          "id": 32569,
+          "name": "Cara850513",
+          "displayName": "千雯",
+          "avatarUrl": "/rescale_avatar/1579805875318_32569/2020/01/24/e2fb6266821fa55dc208c479806aa2fdac10955ee75b06860c41f748ee465572_small.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aoO7WMoL",
+      "category": "Pics",
+      "title": "清純系微性感女神千雯～JVGirls全新感受！",
+      "coverImage": "/minify_image/300/1578672700580_5461/2020/01/11/dcc130f0b655a009bf17ffdee355029448b1b475aac99f56d8e03ae1a8c6ebd3.jpg",
+      "coverVideo": null,
+      "coverPreviewable": false,
+      "originalPrice": 6.99,
+      "specialPrice": null,
+      "favoriteTimes": 14,
+      "viewTimes": 2071,
+      "publishStart": 1578708700000,
+      "photoCount": 37,
+      "videoLength": null,
+      "hiddenVersionPhotoCount": 0,
+      "hiddenVersionVideoLength": null,
+      "model": [
+        {
+          "id": 32569,
+          "name": "Cara850513",
+          "displayName": "千雯",
+          "avatarUrl": "/rescale_avatar/1579805875318_32569/2020/01/24/e2fb6266821fa55dc208c479806aa2fdac10955ee75b06860c41f748ee465572_small.jpg"
+        }
+      ]
+    }
+  ],
+  "recommendModel": [
+    {
+      "avatarUrl": "/rescale_avatar/1669202813362_615587/2022/11/23/fc1039d3076df03cdedbaa2dbe197e8f7302a3997a1adefb54aedd53eb66bf63_large.jpg",
+      "displayName": "茵茵",
+      "name": "小茵茵",
+      "id": 615587
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1559274260733_112169/2019/05/31/b64773b3529dd1322d9e9baf7341f6aedd0908fed693fb235bb92b017965ccfa_large.jpg",
+      "displayName": "雯雯",
+      "name": "雯雯",
+      "id": 112169
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1624596971265_364849/2021/06/25/2ec74bc9b7b429f4237209fb1e91efaddab74463241a02bdda8361f8ae5601b4_large.jpg",
+      "displayName": "牛奶兒",
+      "name": "牛奶兒",
+      "id": 364849
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1656832942757_96275/2022/07/03/57fc2a246fec85087f37d6e59b10d87dc435c0898f74d591bc072456b558be50_large.jpg",
+      "displayName": "嘟嘟嘟～何甯",
+      "name": "何甯",
+      "id": 96275
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1610513981242_289044/2021/01/13/28a6fe508f236b9d7147d1df8ca1e447ea98e35852b833b13e9320ec9c46995c_large.jpg",
+      "displayName": "Nikki_1025",
+      "name": "Nikki_1025",
+      "id": 289044
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1570515850868_148138/2019/10/08/1e43ff80f67899a034b13c9556cae08c37028d770cf9355016a4ba8552c2ed8a_large.jpg",
+      "displayName": "蜜包子",
+      "name": "蜜包子",
+      "id": 148138
+    },
+    {
+      "avatarUrl": "/rescale_avatar/2017/11/20/38d0c0f74aae895ea05508ca412a01beec16a38a3bcd41439d8b431e26d03395_large.jpg",
+      "displayName": "奶油妹 媗媗",
+      "name": "q8009300",
+      "id": 1174
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1634632230364_102838/2021/10/19/d01ebf2d691ce57dc9d161d64461a5d2f507bc3fdcbc6f1bc557ab9db8e50505_large.jpg",
+      "displayName": "wawa__0811",
+      "name": "wawa__0811",
+      "id": 102838
+    }
+  ],
+  "productMedia": {
+    "hiddenProductFree": [],
+    "hiddenProductPaid": [],
+    "main": [
+      {
+        "id": 5208,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 5213,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 5212,
+        "type": "photo",
+        "isCover": true,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": true,
+        "previewVideoUri": null,
+        "thumbnailUrl": "/minify_image/300/1528643262656_1063/2018/06/10/0fca3518daedfb7304bb7407c8e9c49329219539c752d1cfcc39ba32b5979292.jpg",
+        "contentUrl": "/minify_image/1600/3/1528643262656_1063/2018/06/10/0fca3518daedfb7304bb7407c8e9c49329219539c752d1cfcc39ba32b5979292.jpg",
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 5211,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 5209,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 5210,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      }
+    ]
+  },
+  "header": {
+    "translateStatus": "completed",
+    "contractUrlList": [],
+    "canViewAnalytics": false,
+    "canExamine": false,
+    "canViewContract": false
+  },
+  "canShowTag": false,
+  "canShowLog": false,
+  "canShowTransferFileStatus": false,
+  "canChangeLayoutMode": false
+}

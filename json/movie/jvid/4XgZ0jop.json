@@ -1,0 +1,652 @@
+{
+  "id": 5657,
+  "category": "Pics",
+  "publishCategory": "Pd",
+  "layoutMode": "Published",
+  "isCloudProduct": false,
+  "title": "暗黑潮流女神！「 明日花綺羅」白紗情人夢性感開撩",
+  "description": "白紗情人夢！「 明日花綺羅」性感開撩，冷豔性感絕對讓你精關失守直呼不要不要～",
+  "price": 19.99,
+  "discountPrice": null,
+  "hiddenProductId": null,
+  "hiddenPrice": null,
+  "diamondPrice": 10000,
+  "cover": {
+    "thumbnail": "/video_thumbnail/1567393823766_1006/2019/09/02/640/cd0d61b91f5d483924a2ed118db5927730e5a3fac751293fa0154bf771be3399.jpg",
+    "video": "/marked_preview_video/1567393823766_1006/2019/09/02/3c33c815dba3e5c82e8ac3cc1f52efe68eb4ab2d3472933ede936c2a8fd08a5f.mp4",
+    "type": "video",
+    "ogImage": "/video_thumbnail/1567393823766_1006/2019/09/02/640/cd0d61b91f5d483924a2ed118db5927730e5a3fac751293fa0154bf771be3399.jpg",
+    "isCompleted": true
+  },
+  "photoCount": 15,
+  "videoLength": "00:06:12",
+  "viewTimes": 7280,
+  "favoriteTimes": 36,
+  "publishStart": 1567562403000,
+  "buyButtonType": "notLogin",
+  "bulkButtonType": "hide",
+  "tag": [
+    {
+      "parentTagId": null,
+      "color": "#64b7f8",
+      "nameI18nKey": "tag.lingerie",
+      "id": 79,
+      "type": "Boundary"
+    },
+    {
+      "parentTagId": "59",
+      "color": "#bebebe",
+      "nameI18nKey": "tag.lingerie",
+      "id": 65,
+      "type": "Genre"
+    }
+  ],
+  "author": {
+    "avatarUrl": "/rescale_avatar/_34298/2018/06/26/e7602ca7c946ee32822faec6ba8bd305165b1b48c37e458cd4cc832fdf3af8d7_large.jpg",
+    "displayName": "TRE 台北國際成人展",
+    "name": "TRE",
+    "id": 34298
+  },
+  "presenter": null,
+  "producer": null,
+  "collaborator": null,
+  "crewList": [],
+  "modelList": [
+    {
+      "avatarUrl": "/rescale_avatar/_34328/2018/07/06/7e96fc26f4f02f3833205bb260d2f9de1c4f116dfc34f9ead049f21d63de2c74_large.jpg",
+      "displayName": "明日花キララ",
+      "name": "asukakirara",
+      "id": 34328
+    }
+  ],
+  "recommendVideo": [
+    {
+      "id": "aoOPpEXL",
+      "category": "Pics",
+      "title": "「明日花綺羅」火辣爆乳特務 訪客間裡性感埋伏！",
+      "coverImage": "/video_thumbnail/1567393821695_1006/2019/09/02/640/a077184e7c6685238bf9630137f17d84713ea75083c2a963d62c581bee6752cc.jpg",
+      "coverVideo": "/marked_preview_video/1567393821695_1006/2019/09/02/ba55c38b8a51c8e4fb743685c45e61aa496f8f19331b8d776aa797be084485b6.mp4",
+      "coverPreviewable": true,
+      "originalPrice": 19.99,
+      "specialPrice": null,
+      "favoriteTimes": 36,
+      "viewTimes": 7711,
+      "publishStart": 1567562402000,
+      "photoCount": 15,
+      "videoLength": "00:05:55",
+      "hiddenVersionPhotoCount": 0,
+      "hiddenVersionVideoLength": null,
+      "model": [
+        {
+          "id": 34328,
+          "name": "asukakirara",
+          "displayName": "明日花キララ",
+          "avatarUrl": "/rescale_avatar/_34328/2018/07/06/7e96fc26f4f02f3833205bb260d2f9de1c4f116dfc34f9ead049f21d63de2c74_small.jpg"
+        }
+      ]
+    }
+  ],
+  "recommendModel": [
+    {
+      "avatarUrl": "/rescale_avatar/1674897893314_640374/2023/01/28/de4b3c2f32b66c09ff180a13d4e0d0d3a394aaa311428d601c5ed0933682491f_large.jpeg",
+      "displayName": "IGHOT雨昕",
+      "name": "IGHOT雨昕",
+      "id": 640374
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1683280444041_563619/2023/05/05/589a0fef1027fe2325ec4cae7a7f0659845c1951971a116000612ff432d01da3_large.jpeg",
+      "displayName": "玫瑰孍",
+      "name": "玫瑰孍",
+      "id": 563619
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1630496009238_404454/2021/09/01/378bb9d5474c3f7b58e01dadd5d606ee671113cdbb74ec4badee7a108d02ec50_large.jpg",
+      "displayName": "胡莉娜",
+      "name": "胡莉娜",
+      "id": 404454
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1682056385136_494310/2023/04/21/0203633f62e45cc2155cc08e656c33f7367cb7cb918d44aa7f18ca40e5a3717e_large.jpeg",
+      "displayName": "甜芯",
+      "name": "甜芯",
+      "id": 494310
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1634370785755_417480/2021/10/16/d26a68f6e6a73c12475d07b7610fb01d3f0f39b59cbb0f28903175678d971ec1_large.jpg",
+      "displayName": "小妮",
+      "name": "小妮",
+      "id": 417480
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1629797622595_395282/2021/08/24/54a7f8354182719a83a30be32df2065ae3104090763d3b01974d31d7073ec5eb_large.jpg",
+      "displayName": "馮馮feng",
+      "name": "馮馮feng",
+      "id": 395282
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1610435789594_201619/2021/01/12/cc17f56c650c2e4d2ad275bd719787ef9d4958ae0dcb29cdba98e3f51283f26f_large.jpg",
+      "displayName": "小娜hannah",
+      "name": "小娜hannah",
+      "id": 201619
+    },
+    {
+      "avatarUrl": "/rescale_avatar/1689342564358_467423/2023/07/14/54d622922106cec59f449ecdadc7ac9eced53cbe4af1d05fc39cfa075ddc0104_large.jpeg",
+      "displayName": "香月遙衣",
+      "name": "香月遙衣",
+      "id": 467423
+    }
+  ],
+  "productMedia": {
+    "hiddenProductFree": [],
+    "hiddenProductPaid": [],
+    "main": [
+      {
+        "id": 5788,
+        "type": "video",
+        "isCover": true,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": "/video_thumbnail/1567393823766_1006/2019/09/02/cd0d61b91f5d483924a2ed118db5927730e5a3fac751293fa0154bf771be3399.jpg",
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": null,
+        "height": null,
+        "length": "00:06:12"
+      },
+      {
+        "id": 138499,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 138509,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138505,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138502,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138500,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": true,
+        "previewVideoUri": null,
+        "thumbnailUrl": "/minify_image/300/1567393823766_1006/2019/09/02/28bbe222724bf094e3daa1d2e4656ae5f5a5a166ef3a312ea2955b85455bb2bd.jpg",
+        "contentUrl": "/minify_image/1600/3/1567393823766_1006/2019/09/02/28bbe222724bf094e3daa1d2e4656ae5f5a5a166ef3a312ea2955b85455bb2bd.jpg",
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138501,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": true,
+        "previewVideoUri": null,
+        "thumbnailUrl": "/minify_image/300/1567393823766_1006/2019/09/02/49aca47b1662889776dbedffa9d3c1dbb36df12d29d601924f9e67a4eff3ac58.jpg",
+        "contentUrl": "/minify_image/1600/3/1567393823766_1006/2019/09/02/49aca47b1662889776dbedffa9d3c1dbb36df12d29d601924f9e67a4eff3ac58.jpg",
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 138506,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 138498,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1920,
+        "height": 1080,
+        "length": null
+      },
+      {
+        "id": 138507,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138504,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138508,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138511,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": true,
+        "previewVideoUri": null,
+        "thumbnailUrl": "/minify_image/300/1567393823766_1006/2019/09/02/841f091acc06c9caba4fe50d6df41bbcc0235307d7c4bb195e63510228d071a7.jpg",
+        "contentUrl": "/minify_image/1600/3/1567393823766_1006/2019/09/02/841f091acc06c9caba4fe50d6df41bbcc0235307d7c4bb195e63510228d071a7.jpg",
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138512,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138503,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      },
+      {
+        "id": 138510,
+        "type": "photo",
+        "isCover": false,
+        "isNoticeCover": false,
+        "isPreorderCover": false,
+        "isCompleted": true,
+        "isPreview": false,
+        "previewVideoUri": null,
+        "thumbnailUrl": null,
+        "contentUrl": null,
+        "visionResult": {
+          "leftEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          },
+          "rightEye": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "xPercentage": 0,
+            "yPercentage": 0
+          }
+        },
+        "width": 1080,
+        "height": 1920,
+        "length": null
+      }
+    ]
+  },
+  "header": {
+    "translateStatus": "completed",
+    "contractUrlList": [],
+    "canViewAnalytics": false,
+    "canExamine": false,
+    "canViewContract": false
+  },
+  "canShowTag": false,
+  "canShowLog": false,
+  "canShowTransferFileStatus": false,
+  "canChangeLayoutMode": false
+}
